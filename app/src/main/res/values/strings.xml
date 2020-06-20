@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeWork</string>
+    <string name="main_send_msg_to_friend">Отправить сообщение другу</string>
+    <string name="main_login">Логин</string>
+    <string name="main_password">Пароль</string>
+    <string name="main_send_msg_login_password">Отправить</string>
+
+</resources>
